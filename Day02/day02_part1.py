@@ -27,5 +27,4 @@ for data in inputdata:
     elif data[1] == 'Z':
         sum = sum + 3
 
-
 print(sum)
