@@ -71,7 +71,7 @@ The Elves just need to know which crate will end up on top of each stack; in thi
 
 ---
 
-# --- Part Two ---
+## --- Part Two ---
 
 As you watch the crane operator expertly rearrange the crates, you notice the process isn't following your prediction.
 
